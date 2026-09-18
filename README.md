@@ -1,14 +1,14 @@
-# 🚀 Mercado Livre Product Extractor v1.0
+#  Mercado Livre Product Extractor v1.0
 
 ### Automating authorized e-commerce catalog workflows with Python
 
 > A Python-based automation solution designed to transform official and authorized Mercado Livre product links into structured product information and organized media assets.
 
-🔒 **Portfolio Project:** The source code and executable application are not publicly available.
+ **Portfolio Project:** The source code and executable application are not publicly available.
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
 Watch the complete demonstration of the project on LinkedIn:
 
@@ -16,7 +16,7 @@ Watch the complete demonstration of the project on LinkedIn:
 
 ---
 
-## 💡 Project Overview
+##  Project Overview
 
 E-commerce teams often deal with repetitive catalog operations such as locating product information, saving images, identifying available media, organizing files, and reviewing the final result.
 
@@ -30,7 +30,7 @@ The application was specifically designed to work with **Mercado Livre product l
 
 ---
 
-## 🎯 The Problem
+##  The Problem
 
 For small e-commerce operations, repetitive catalog preparation can consume valuable time.
 
@@ -50,7 +50,7 @@ The goal of this project was to automate this repetitive process.
 
 ---
 
-## 💡 The Solution
+##  The Solution
 
 The application receives an **official and authorized product URL** and automates the processing of the information and media made available through the product page.
 
@@ -69,7 +69,7 @@ The interface was intentionally designed to keep the workflow simple:
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 ┌─────────────────────────┐
@@ -121,7 +121,7 @@ Python provided the foundation for coordinating these components, while Playwrig
 
 ---
 
-## 🖥️ User Experience
+##  User Experience
 
 One of the design goals was to minimize the technical knowledge required to operate the application.
 
@@ -145,7 +145,7 @@ This approach focuses on making technical automation useful to people who may no
 
 ---
 
-## 📂 Output Structure
+##  Output Structure
 
 The generated materials are organized by product to simplify their subsequent use.
 
@@ -163,7 +163,7 @@ The final structure may vary depending on the information and media available fo
 
 ---
 
-## 📊 From Manual Work to Automation
+##  From Manual Work to Automation
 
 ### Before
 
@@ -197,7 +197,7 @@ The project explores how repetitive operational work can be converted into a str
 
 ---
 
-## 🧠 Engineering Perspective
+##  Engineering Perspective
 
 The main value of this project goes beyond implementing individual features.
 
@@ -220,7 +220,7 @@ This project allowed me to work with concepts such as:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 Building this project reinforced an important aspect of software development:
 
@@ -240,7 +240,7 @@ The project helped me develop a better understanding of:
 
 ---
 
-## 🔐 Responsible & Authorized Use
+##  Responsible & Authorized Use
 
 This project was designed around the use of **official product links and authorized product information and media**.
 
@@ -257,7 +257,7 @@ The intended use case is for **resellers, affiliates, suppliers, and commercial 
 
 ---
 
-## 🚧 Roadmap
+## Roadmap
 
 ### v1.0 — Current
 
@@ -281,7 +281,7 @@ The intended use case is for **resellers, affiliates, suppliers, and commercial 
 
 ---
 
-## 🔒 Source Code
+##  Source Code
 
 The source code and executable application are intentionally **not publicly distributed**.
 
@@ -289,7 +289,7 @@ This repository serves as a **technical portfolio and project case study**, docu
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ### Gabriel Henrique
 
@@ -310,7 +310,7 @@ This project represents part of my journey toward becoming a software developer 
 
 ---
 
-## 📌 Project Information
+## Project Information
 
 |                      |                                 |
 | -------------------- | ------------------------------- |
